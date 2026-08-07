@@ -11,7 +11,6 @@
 
 const MEMBERS = {
   member001: "ASN2026",
-  member002: "ASN002",
 };
 
 const params = new URLSearchParams(window.location.search);

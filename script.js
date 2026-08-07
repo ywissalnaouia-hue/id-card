@@ -11,7 +11,7 @@
 
 const MEMBERS = {
   member001: "ASN2026",
-  // member002: "ASN002",
+  member002: "ASN002",
   // member003: "ASN003",
 };
 
